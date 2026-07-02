@@ -1,1 +1,7 @@
-'public class Hello { public static void main(String[] args) { System.out.println("Hello, GitHub!");System.out.println("Hello2, GitHub!!"); } }' 
+'public class Hello { 
+   public static void main(String[] args) {
+     System.out.println("Hello, GitHub!");
+    System.out.println("Hello2, GitHub!!"); 
+    System.out.println("Hello3, GitHub!!"); 
+   }
+}' 
